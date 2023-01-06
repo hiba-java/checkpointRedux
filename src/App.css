@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.Heed {
+
+  width: 90vw;
+  height: 10vh;
+  background-color: rgba(10, rgb(207, 209, 207), 10, 0.3);
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+ padding-top: 20px;
+ border-radius: 0em;
+} 
+
+.TaskList {
+  width : 90vw;
+  background-color: beige;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+
+
+
